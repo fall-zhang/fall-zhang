@@ -12,6 +12,8 @@ Who am i?
 - 🔭 我现在正在做图表生成功能和一个表格组件
 - 🌱 一个未来的全栈艺术家
 
+**📊 My GitHub Stats:**
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fall-zhang&layout=compact&hide_border=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
