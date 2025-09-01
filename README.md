@@ -16,7 +16,7 @@ Who am i?
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fall-zhang&layout=compact&hide_border=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-赞助：ifdian.net/fall-zhang
+赞助：ifdian.net/a/fall-zhang
 
 support：patreon.com/user?u=114040903
 <!--
